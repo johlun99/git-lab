@@ -5,4 +5,4 @@ def adder(x, y):
 
 
 def subtractor(x, y):
-    return x + y
+    return x - y
