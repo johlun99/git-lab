@@ -1,0 +1,22 @@
+## Prefixes / Type
+
+**feat:** När man lägger till ny funktionalitet som inte finns.
+
+**fix:** När man fixar en bugg eller motsvarande.
+
+**cut:** Motsatsen till feat. När man tar bort funktionalitet tex cut: remove stockstatus on 
+
+**bump:** När man uppdaterar versioner av paket
+
+**chore:** PropTypes och lint. Städa upp som inte påverkar funktionaliteten.
+
+**refactor:** Tex bygga om en klass-komponent till funktionell komponent. Den ska behålla samma features. Eller flytta en Komponent till core-web så den kan användas av alla bolag.
+
+**style:** När vi ska uppdatera saker som inte påverkar funktionaliteten eller meningen, tex design-korrigering.
+
+**add:** Lägg till nya funktioner - tex skapa upp en ny util-funktion eller lägga till nya färger i tema.
+
+**feat!:**  Breaking changes tex `feat! Breaking changes: Use object ID instead of part_no`.
+
+Man kan använda parentesen lite fritt om man vill förtydliga lite.
+

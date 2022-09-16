@@ -4,8 +4,4 @@ def greeting(name):
 
 # This function will say goodbye
 def goodBye(name):
-    print("Goodbye, " + name)
-
-# This will revolutionize tracking!
-def collectPersonalInformation(name):
-    print("Collecting 3:D")
+    print("Goodbye, " + name)NA.KSDLNF.KJASDNFÖKLJSADNJFKÖLJASDJNFÖKJLASDNFÖKJSADNF
