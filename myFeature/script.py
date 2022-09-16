@@ -7,4 +7,4 @@ def goodBye(name):
     print("Goodbye, " + name)
 
 def collectPersonalInformation(name):
-    print("COllecting 3:D")
+    print("Collecting 3:D")
