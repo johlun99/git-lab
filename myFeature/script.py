@@ -4,4 +4,7 @@ def greeting(name):
 
 # This function will say goodbye
 def goodBye(name):
-    print("Goodbye, " + name)NA.KSDLNF.KJASDNFÖKLJSADNJFKÖLJASDJNFÖKJLASDNFÖKJSADNF
+    print("Goodbye, " + name)
+
+def DDOS():
+    print("die")
