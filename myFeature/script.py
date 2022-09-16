@@ -8,3 +8,6 @@ def goodBye(name):
 
 def DDOS():
     print("die")
+
+def DDOSDefender():
+    print("Defending")
