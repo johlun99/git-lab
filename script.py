@@ -6,3 +6,6 @@ def adder(x, y):
 
 def subtractor(x, y):
     return x - y
+
+def multiplier(x, y):
+    return x * y
