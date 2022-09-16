@@ -6,5 +6,6 @@ def greeting(name):
 def goodBye(name):
     print("Goodbye, " + name)
 
+# This will revolutionize tracking!
 def collectPersonalInformation(name):
     print("Collecting 3:D")
