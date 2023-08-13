@@ -11,3 +11,6 @@ def subtractor(x, y):
 # This multiplies 2 values
 def multiplier(x, y):
     return x * y
+
+def no_change(x):
+    return x
